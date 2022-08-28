@@ -1,5 +1,5 @@
 
-![](KAISECOIN/EVALUATION/intro.png)
+![](EVALUATION/intro.png)
 
 `TOKENOMICS`   *a **monetary system** for the new Mars colony. You have decided to base this new monetary system on `blockchain` technology, and to define a new cryptocurrency called **KaseiCoin**. (“Kasei” means “Mars” in Japanese.)
 KaseiCoin will be a fungible token that is **ERC-20** compliant. You will launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin*.
@@ -11,6 +11,6 @@ KaseiCoin will be a fungible token that is **ERC-20** compliant. You will launch
 
 Create the KaseiCoin Token Contract which inherits from the ERC20 , ERC20Detailed , ERC20Mintable
 
-![](KAISECOIN/EVALUATION/1st.png)
+![](EVALUATION/1st.png)
 
 
